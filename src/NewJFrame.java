@@ -6,7 +6,7 @@
 
 /**
  *
- * @author hp
+ * @author Ankur Dhuriya
  */
 public class NewJFrame extends javax.swing.JFrame {
 
